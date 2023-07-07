@@ -3,10 +3,18 @@ html, body, html * {
   font-family: 'Roboto', sans-serif;
 }
 
+body {
+  margin: 0;
+  width: 1455px;
+}
+
 ul {
   list-style: none;
   margin: 0;
   padding: 0;
+  display: flex;
+  gap: 25px;
+  align-self: center;
 }
 
 a {
@@ -15,6 +23,9 @@ a {
 
 .first-section {
   background-color: #1f2937;
+  padding: 18px 222px 200px 208px;
+  display: flex;
+  flex-direction: column;
 }
 
 .logo {
@@ -36,6 +47,7 @@ h1 {
   font-size: 18px;
 }
 
-.first-section {
+.header {
   display: flex;
+  justify-content: space-between;
 }
