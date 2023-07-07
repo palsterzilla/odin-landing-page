@@ -35,7 +35,7 @@ a {
   font-weight: 900;
 }
 
-h1 {
+.left-text h1 {
   color: #f9faf8;
   font-size: 48px;
   font-weight: 900;
@@ -93,3 +93,8 @@ button {
   width: 130px;
 }
 
+.second-section h1 {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: 900;
+}
