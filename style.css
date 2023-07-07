@@ -23,7 +23,7 @@ a {
 
 .first-section {
   background-color: #1f2937;
-  padding: 18px 222px 200px 208px;
+  padding: 18px 224px 200px 208px;
   display: flex;
   flex-direction: column;
 }
@@ -38,6 +38,7 @@ h1 {
   color: #f9faf8;
   font-size: 48px;
   font-weight: 900;
+  margin: 0;
 }
 
 .links a,
@@ -50,4 +51,29 @@ h1 {
 .header {
   display: flex;
   justify-content: space-between;
+  margin-bottom: 119px;
+}
+
+.header-content {
+  display: flex;
+  height: 236px;
+}
+
+.left-text {
+  width: 502px;
+  padding-top: 4px;
+}
+
+.left-text p {
+  margin: 0;
+  padding-right: 50px;
+}
+
+.image-placeholder {
+  background-color: #6d747d;
+  /* width: 1035px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
 }
