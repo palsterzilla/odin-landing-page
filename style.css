@@ -26,6 +26,7 @@ a {
   padding: 18px 224px 200px 208px;
   display: flex;
   flex-direction: column;
+  height: 317px;
 }
 
 .logo {
@@ -91,3 +92,4 @@ button {
   border-radius: 8px;
   width: 130px;
 }
+
