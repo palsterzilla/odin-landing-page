@@ -31,7 +31,7 @@ a {
 .logo {
   color: #f9faf8;
   font-size: 24px;
-  font-weight: bolder;
+  font-weight: 900;
 }
 
 h1 {
@@ -42,7 +42,7 @@ h1 {
 }
 
 .links a,
-.header-content p,
+.left-text p,
 .image-placeholder {
   color:#e5e7eb;
   font-size: 18px;
@@ -71,7 +71,6 @@ h1 {
 
 .image-placeholder {
   background-color: #6d747d;
-  /* width: 1035px; */
   display: flex;
   justify-content: center;
   align-items: center;
