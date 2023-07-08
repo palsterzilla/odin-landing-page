@@ -5,7 +5,7 @@ html, body, html * {
 
 body {
   margin: 0;
-  width: 1455px;
+  /* width: 1455px; */
 }
 
 ul {
@@ -23,7 +23,8 @@ a {
 
 .first-section {
   background-color: #1f2937;
-  padding: 18px 224px 200px 208px;
+  /* padding: 18px 224px 200px 208px; */
+  padding: 18px 80px 200px ;
   display: flex;
   flex-direction: column;
   height: 317px;
@@ -61,7 +62,7 @@ a {
 }
 
 .left-text {
-  width: 502px;
+  width: 500px;
   padding-top: 4px;
 }
 
