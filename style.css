@@ -99,6 +99,17 @@ button {
   font-size: 36px;
   font-weight: 900;
   text-align: center;
+  margin: 50px 0;
+}
+
+.image-container {
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+}
+
+.image-container .info {
+  max-width: 160px;
 }
 
 .image-box {
@@ -108,6 +119,9 @@ button {
   border-radius: 12px;
 }
 
-.image-container {
-  display: flex;
+.image-text {
+  text-align: center;
+  max-width: 150px;
+  padding: 4px;
+  color: #78808A;
 }
