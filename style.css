@@ -94,12 +94,16 @@ button {
   width: 130px;
 }
 
+.second-section {
+  margin: 50px 0;
+}
+
 .second-section h1 {
   color: #1f2937;
   font-size: 36px;
   font-weight: 900;
   text-align: center;
-  margin: 50px 0;
+  margin-bottom: 50px;
 }
 
 .image-container {
@@ -124,4 +128,22 @@ button {
   max-width: 150px;
   padding: 4px;
   color: #78808A;
+}
+
+.third-section {
+  background-color: #e5e7eb;
+  padding: 50px 250px;
+}
+
+.quote {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.quote-author {
+  text-align: right;
+  font-size: 25px;
+  font-weight: bold;
 }
