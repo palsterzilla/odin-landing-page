@@ -79,7 +79,7 @@ a {
   flex: 1;
 }
 
-button {
+.signup {
   background-color: #3882f6;
   border: none;
   color: white;
@@ -148,7 +148,18 @@ button {
   font-weight: bold;
 }
 
+/* fourth-section */
+.info > * {
+  margin: 0;
+}
+
 .fourth-section {
   background-color: #3B82F6;
   color: white;
+}
+
+.fourth-section .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
