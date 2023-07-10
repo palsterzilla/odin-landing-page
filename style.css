@@ -79,7 +79,7 @@ a {
   flex: 1;
 }
 
-.signup {
+.signup-firstsection {
   background-color: #3882f6;
   border: none;
   color: white;
@@ -156,10 +156,15 @@ a {
 .fourth-section {
   background-color: #3B82F6;
   color: white;
+  margin: 100px 80px;
 }
 
 .fourth-section .container {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.signup.fourth-section {
+  border: white solid 2px;
 }
