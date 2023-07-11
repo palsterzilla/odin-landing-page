@@ -162,7 +162,9 @@ a {
 .fourth-section .container {
   display: flex;
   justify-content: center;
+  gap: 200px;
   align-items: center;
+  height: 150px;
 }
 
 .signup.fourth-section {
