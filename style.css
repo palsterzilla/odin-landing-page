@@ -178,3 +178,11 @@ button.signup-fourthsection {
   padding: 8px;
   border-radius: 10px;
 }
+
+/* footer */
+.footer {
+  background-color: #1f2937;
+  text-align: center;
+  color: #f9faf8;
+  padding: 20px;
+}
