@@ -157,6 +157,7 @@ button.signup-firstsection {
   background-color: #3B82F6;
   color: white;
   margin: 100px 80px;
+  border-radius: 10px;
 }
 
 .fourth-section .container {
@@ -169,4 +170,11 @@ button.signup-firstsection {
 
 button.signup-fourthsection {
   border: white solid 2px;
+  background-color: #3882f6;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  width: 130px;
+  padding: 8px;
+  border-radius: 10px;
 }
