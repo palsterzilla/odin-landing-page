@@ -165,7 +165,7 @@ a {
 .fourth-section .container {
   display: flex;
   justify-content: center;
-  gap: 200px;
+  gap: 220px;
   align-items: center;
   height: 150px;
 }
