@@ -79,7 +79,7 @@ a {
   flex: 1;
 }
 
-.signup-firstsection {
+button.signup-firstsection {
   background-color: #3882f6;
   border: none;
   color: white;
@@ -170,6 +170,6 @@ a {
   height: 150px;
 }
 
-.signup.fourth-section {
+button.signup-fourthsection {
   border: white solid 2px;
 }
